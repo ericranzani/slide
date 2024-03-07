@@ -1,4 +1,3 @@
-
 # 💻 Projeto feito no curso de JavaScript
 
 Projeto desenvolvido no modulo "Slide" do curso de JavaScript da plataforma da Origamid.
@@ -6,6 +5,6 @@ O projeto foi feito para criar um sistema de galerias de imgem slide que pode se
 
 Link do projeto - https://ericranzani.github.io/slide/
 
-
 # 📷 Imagem do projeto
 
+<img src="img/slide-animais.JPG" alt="Demonstração do projeto slide">
